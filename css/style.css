@@ -1,0 +1,17 @@
+.container{
+    padding:30px 30px;
+}
+.btn-buyNow{
+    padding: 10px 20px;
+}
+
+.carousel .carousel-indicators button {
+    background-color: orange;
+    padding: 3px;
+    border-radius: 15px;
+}
+.card{
+    border: none;
+    text-align: center;
+    box-shadow: 1px 1px 10px 1px lightgray;
+}
