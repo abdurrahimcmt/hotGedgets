@@ -1,5 +1,5 @@
 .container{
-    padding:30px 30px;
+    padding-bottom: 60px;
 }
 .btn-buyNow{
     padding: 10px 20px;
@@ -14,4 +14,25 @@
     border: none;
     text-align: center;
     box-shadow: 1px 1px 10px 1px lightgray;
+}
+
+.categoryTitle{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.categoryTitle div{
+    display: inline-block;
+    width: 120px;
+    height: 10px;
+    background-color: orange;
+    border-radius: 5px;
+}
+#category .row{
+    text-align: center;
+}
+.bg-shadow{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px 0px;
+    box-shadow: 1px 1px 10px 1px lightgrey;
 }
